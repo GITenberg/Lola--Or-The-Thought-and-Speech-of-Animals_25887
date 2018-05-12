@@ -1,0 +1,35 @@
+_repo: Lola--Or-The-Thought-and-Speech-of-Animals_25887
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Mackenzie, William
+    gutenberg_agent_id: '31643'
+    url: http://www.gutenberg.org/2009/agents/31643
+  translator:
+    agent_name: Blake, Agnes
+    gutenberg_agent_id: '31642'
+    url: http://www.gutenberg.org/2009/agents/31642
+covers:
+- cover_type: archival
+  image_path: 25887-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Kindermann, Henny
+    gutenberg_agent_id: '31641'
+    url: http://www.gutenberg.org/2009/agents/31641
+description: ''
+gutenberg_bookshelf: Animals-Domestic
+gutenberg_issued: '2008-06-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25887'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dogs -- Folklore'
+- !lcsh 'Animal intelligence'
+- !lcc 'QL'
+title: Lola; Or, The Thought and Speech of Animals
+url: http://www.gutenberg.org/ebooks/25887
