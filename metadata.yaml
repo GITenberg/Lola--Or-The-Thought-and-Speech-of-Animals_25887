@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '31641'
     url: http://www.gutenberg.org/2009/agents/31641
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25887#Lola--Or-The-Thought-and-Speech-of-Animals
 gutenberg_bookshelf: Animals-Domestic
 gutenberg_issued: '2008-06-23'
 gutenberg_type: Text
